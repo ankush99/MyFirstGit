@@ -1,11 +1,11 @@
 Welcome to Git
 
-Changed 1
+changed - 1
 
-Changed 2
+changed - 2
 
-Changed 3
+changed - 3
 
-Changed 4
+changed - 4
 
-Changed 5
+changed - 5
