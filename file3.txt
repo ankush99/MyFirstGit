@@ -3,3 +3,5 @@ this is new file
 Changed 1 --->at local change
 
 Chnaged 2 --> at remote change
+
+Chnaged 3 --> at remote change
